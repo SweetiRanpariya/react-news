@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+       {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Lauren Hirsch, Kevin Draper, Katherine Rosman",
+            "title": "New York Times Co. to Buy The Athletic for $550 Million in Cash - The New York Times",
+            "description": "The deal could help the media company reach its goal of 10 million subscriptions ahead of schedule.",
+            "url": "https://www.nytimes.com/2022/01/06/business/new-york-times-the-athletic.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/07/business/07NYT-DEAL-print1/06NYT-DEAL-SUB-facebookJumbo-v2.jpg",
+            "publishedAt": "2022-01-07T01:07:42Z",
+            "content": "The site has about 600 employees roughly 400 in its newsroom, making it the second-largest employer of sports journalists in the country, behind the Disney-owned ESPN. Like a number of digital media … [+2019 chars]"
+        },
+       {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Sheryl Gay Stolberg",
+            "title": "Former Biden Advisers Urge a Pandemic Strategy for the ‘New Normal’ - The New York Times",
+            "description": "In a striking critique, six prominent health experts who advised President Biden’s transition team called for an entirely new domestic coronavirus strategy.",
+            "url": "https://www.nytimes.com/2022/01/06/us/politics/former-biden-advisers-pandemic-strategy.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/06/us/politics/06dc-advisers/merlin_199996863_a5764994-7fc0-4bed-9308-81dd3b211352-facebookJumbo.jpg",
+            "publishedAt": "2022-01-07T00:04:04Z",
+            "content": "Now, with the Omicron variant fueling an enormous new surge, they wrote, the United States must avoid becoming stuck in a perpetual state of emergency. The first step, they wrote, is recognizing that… [+2209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Sarah Bahr",
+            "title": "A Guide to What Is Happening With the 2022 Golden Globes - The New York Times",
+            "description": "A guide to everything we know  about the 79th annual Golden Globes on Sunday night.",
+            "url": "https://www.nytimes.com/2022/01/06/movies/golden-globes-hfpa.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/07/arts/06globes-explainer/merlin_199213470_50cb7d9e-d730-4cbb-9009-8feccdd674df-facebookJumbo.jpg",
+            "publishedAt": "2022-01-06T23:57:35Z",
+            "content": "The scandal-ridden group also came under scrutiny after reports revealed that more than a third of the H.F.P.A. members had been flown on a luxury press trip to the French set of the Netflix series E… [+2189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Roni Caryn Rabin",
+            "title": "Women’s Periods May Be Late After Coronavirus Vaccination, Study Suggests - The New York Times",
+            "description": "An analysis of thousands of menstrual records offers support for anecdotal reports of erratic cycles after shots.",
+            "url": "https://www.nytimes.com/2022/01/06/health/covid-vaccine-menstrual-cycles.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/06/science/06virus-menstruation/06virus-menstruation-facebookJumbo.jpg",
+            "publishedAt": "2022-01-06T22:26:35Z",
+            "content": "Researchers looked at records from nearly 4,000 women who had meticulously tracked their menstruation in real time, including about 2,400 who were vaccinated against the coronavirus and about 1,550 w… [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Mike Baker",
+            "title": "Oregon Says Nicholas Kristof Cannot Run for Governor - The New York Times",
+            "description": "The secretary of state said that Mr. Kristof, a former New York Times columnist, did not meet the state’s three-year residency requirement.",
+            "url": "https://www.nytimes.com/2022/01/06/us/oregon-governor-kristof.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/06/us/06oregon-governor-kristof/06oregon-governor-kristof-facebookJumbo.jpg",
+            "publishedAt": "2022-01-06T22:21:14Z",
+            "content": "While I have no doubt that Mr. Kristofs sentiments and feelings toward Oregon are genuine and sincere, they are simply dwarfed by the mountains of objective evidence that until recently he considered… [+1257 chars]"
+        }
+       
+    ]
+}
